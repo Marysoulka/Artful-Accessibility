@@ -1,0 +1,9 @@
+[submodule "Project Code/art-frontend"]
+	path = Project Code/art-frontend
+	url = https://github.com/MustafaShama98/art-frontend
+[submodule "Project Code/art-backend"]
+	path = Project Code/art-backend
+	url = https://github.com/MustafaShama98/art-backend
+[submodule "Project Code/RPi4 - Master"]
+	path = Project Code/RPi4 - Master
+	url = https://github.com/MustafaShama98/RPi4-Painting-MC
